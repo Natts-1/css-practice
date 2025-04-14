@@ -1,1 +1,30 @@
-
+.card {
+  background-color: #ff5050;
+  margin: 30px;
+  padding: 25px;
+  border: 2px dashed black;
+  text-align: center;
+  width: 200px;
+  height: 100px;
+}
+#highlight {
+  position: relative;
+  top: 20px
+  left: 15px
+  background-color: #ff66ff;
+  margin: 30px;
+  padding: 25px;
+  border: 3px solid white;
+  text-align: center;
+  width: 250px
+  height: 150px
+}
+.hover-box:hover {
+  background-color: #6699ff;
+  margin: 30px
+  padding: 25px
+  border: 2px solid #ffcccc;
+  text-align: center;
+  width: 200px
+  height: 150px
+}
