@@ -16,16 +16,16 @@
   padding: 25px;
   border: 2px solid black;
   text-align: center;
-  width: 250px;
-  height: 150px;
+  width: 200px;
+  height: 100px;
 
 }
 .hover-box:hover {
-  background-color: #6699ff;
+  background-color: #F7CAC9;
   margin: 30px;
   padding: 25px;
   border: 2px dashed black;
   text-align: center;
   width: 200px;
-  height: 150px;
+  height: 100px;
 )
